@@ -1,0 +1,18 @@
+* {
+  box-shadow: border-box;
+}
+
+.App {
+  width: 80%;
+  height: 100vh;
+  margin: 50px auto;
+  font-family: sans-serif;
+  text-align: center;
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+  grid-template-rows: 2fr 1fr 2fr;
+}
+
+h1 {
+  font-size: 1rem;
+}

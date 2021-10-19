@@ -1,0 +1,11 @@
+.Oven {
+  width: 50%;
+  height: 15%;
+  background-color: rgb(187, 50, 19);
+}
+
+.Sink {
+  width: 50%;
+  height: 15%;
+  background-color: rgb(127, 67, 16);
+}
